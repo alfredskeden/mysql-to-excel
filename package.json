@@ -1,0 +1,26 @@
+{
+  "name": "mysql-to-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.14.1",
+    "xlsx": "^0.11.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredskeden/mysql-to-excel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfredskeden/mysql-to-excel/issues"
+  },
+  "homepage": "https://github.com/alfredskeden/mysql-to-excel#readme"
+}
